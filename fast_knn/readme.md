@@ -1,1 +1,1 @@
-
+In this task we use KNN to perform the task in hand but we use many different ways of finding the optimal 'k'. In this work we propose a Fast_knn algorithm that utilizes binary search method to get the optimal k.
